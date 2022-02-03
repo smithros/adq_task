@@ -62,9 +62,5 @@ mvn clean test
 ```
 
 ## ToDo
-Service layer:
-Divide complicated logic with `if`'s to small functions.
-Maybe use `switch` instead of `if`
-
 DockerFile
 Swagger doc
